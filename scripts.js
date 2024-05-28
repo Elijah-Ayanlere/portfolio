@@ -47,8 +47,8 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 const typed = new Typed('.multiple-text', {
     strings: ['a Software Engineer', 'a Website Developer', 'an AI Developer', 'a Security Analyst'],
-    typeSpeed: 60,
-    backSpeed: 60,
+    typeSpeed: 70,
+    backSpeed: 70,
     backDelay: 500,
     loop: true
 });
